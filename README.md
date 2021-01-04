@@ -1,1 +1,2 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCherryBrad&count_bg=%23B80707&title_bg=%23555555&icon=smugmug.svg&icon_color=%23FFFCFC&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+## Visitor Counter
+https://profile-counter.glitch.me/CherryBrad/count.svg
