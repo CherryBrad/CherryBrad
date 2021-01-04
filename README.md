@@ -1,2 +1,2 @@
 ## Visitor Counter
-https://profile-counter.glitch.me/CherryBrad/count.svg
+<https://profile-counter.glitch.me/CherryBrad/count.svg>
