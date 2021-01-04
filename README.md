@@ -7,7 +7,7 @@
 
 ## Socials
 [![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Twitter-icon.png)](https://twitter.com/BradCherry123)
-[![YouTube Logo](https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png)](https://www.youtube.com/channel/UCQc1qm-PXqEgRinkqXXwLeQ)
+[![YouTube Logo](https://icons.iconarchive.com/icons/dakirby309/simply-styled/64/YouTube-icon.png)](https://www.youtube.com/channel/UCQc1qm-PXqEgRinkqXXwLeQ)
   
   
   ## GitHub Contribution Statistics
