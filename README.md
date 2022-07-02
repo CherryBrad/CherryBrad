@@ -4,4 +4,4 @@
  ---
   
   ## GitHub Contribution Statistics
-![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=CherryBrad&show_icons=true&title_color=#ffcc00)
+![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=CherryBrad&show_icons=true&title_color=ffcc00)
